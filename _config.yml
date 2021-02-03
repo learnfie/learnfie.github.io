@@ -2,8 +2,8 @@
 name: "Learnfie"
 title: "Learnfie"
 description: "Learn with passion"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/learnfie.png'
+favicon: 'assets/images/learnfie.png'
 baseurl: /
 google_analytics: 'UA-74891597-1'
 disqus: 'learnfie.com'
