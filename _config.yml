@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-74891597-1'
 disqus: 'learnfie.com'
-mailchimp-list: ''
+mailchimp-list: 'https://learnfie.us7.list-manage.com/subscribe?u=4bbf1fa421bf81678fa3b140b&id=ee7b4b2d9b'
 include: ["_pages"]
 permalink: /:title/
 
