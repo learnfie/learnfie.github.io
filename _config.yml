@@ -4,7 +4,7 @@ title: "Learnfie"
 description: "Learn with passion"
 logo: 'assets/images/learnfie.png'
 favicon: 'favicon.ico'
-baseurl: https://learnfie.com
+baseurl: /
 google_analytics: 'UA-74891597-1'
 disqus: 'learnfie'
 mailchimp-list: 'https://learnfie.us7.list-manage.com/subscribe?u=4bbf1fa421bf81678fa3b140b&id=ee7b4b2d9b'
