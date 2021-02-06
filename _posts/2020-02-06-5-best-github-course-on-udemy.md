@@ -6,7 +6,7 @@ categories: [ github, course, tutorial, learning ]
 image: assets/images/002.png
 ---
 
-<h2>GitHub Ultimate: Master Git and GitHub - Beginner to Expert<h2>
+<h2>GitHub Ultimate: Master Git and GitHub - Beginner to Expert</h2>
 
 [ Paid ]
 
