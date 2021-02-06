@@ -3,7 +3,7 @@ layout: post
 title:  "5 Best Free & Paid GitHub Course on Udemy"
 author: arman
 categories: [ github, course, tutorial, learning ]
-image: assets/images/002.png
+image: assets/images/002_.png
 ---
 
 <h2>GitHub Ultimate: Master Git and GitHub - Beginner to Expert</h2>
@@ -33,3 +33,21 @@ Go from complete novice to expert in Git and GitHub using step-by-step, no-assum
 </ul>
 
 <a href="https://www.udemy.com/course/github-ultimate/" target="_blank">View Course</a>
+
+
+<h2>Git Going Fast: One Hour Git Crash Course</h2>
+
+[ Paid ]
+
+Learn the key concepts and basic workflow for Git and GitHub with this easy to follow, top rated, bootcamp-style course!
+
+<b>What's included in the course:</b>
+
+<ul>
+	<li>Learn the key concepts of the Git source control system</li>
+	<li>Step through the entire basic Git workflow</li>
+	<li>Configure SSH for authentication</li>
+	<li>Create and use a remote repository on GitHub</li>
+</ul>
+
+<a href="https://www.udemy.com/course/git-going-fast/" target="_blank">View Course</a>
